@@ -1,0 +1,6 @@
+{
+  "name": "ShineBypass",
+  "description": "Buka tautan pendek dan pengalihan URL yang didukung untuk langsung menemukan alamat tujuan asli dengan aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
